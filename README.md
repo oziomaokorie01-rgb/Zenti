@@ -41,13 +41,13 @@ Choose '2' to authorize a supplier payment
 2. Environment Variables:
 GROQ_API_KEY: For AI parsing.
 EXCHANGE_RATE_API_KEY: For Naira conversion.
-VAULT_ADDRESS: Your Solana Public Key.
+VAULT_ADDRESS: Solana Public Key.
 🛠️ Track
 Primary: Consumer Applications
 Secondary: Payments & On-chain Commerce
 Developed with conviction for the Solana Frontier Hackathon 2026.
 
-Possible Future Roadmap
+### Possible Future Roadmap
 Zenti is just getting started. Our goal is to become the primary financial operating system for offline SMEs.
 
 Phase 1: Security & Trust (Q3 2026)
@@ -61,3 +61,5 @@ Stablecoin Native Support: Automated swapping between SOL and USDC/PYUSD to prot
 Phase 3: The "Zenti Agent" Network (2027)
 Cash In/Out Nodes: Partnering with local kiosk owners to act as physical "on-ramps," allowing users to trade physical Naira for Zenti digital credits via a simple USSD transfer.
 Multi-Chain Support: Expanding the Zenti bridge to other high-speed networks while maintaining the same simple USSD interface.
+
+Built by Senseii Ciel 
