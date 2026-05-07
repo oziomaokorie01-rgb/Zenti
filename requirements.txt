@@ -110,3 +110,5 @@ pyJWT
 open-wallet-standard
 solders
 solana
+gunicorn
+requests
