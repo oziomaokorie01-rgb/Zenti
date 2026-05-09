@@ -34,10 +34,8 @@ Choose '2' to authorize a supplier payment
 
 
 ### 🚀 Setup
-1. Clone & Install:
-   ```bash
-   pip install -r requirements.txt
-   
+1. For this MVP, we use a secure central vault. Our roadmap includes moving to user-specific PDAs to ensure decentralized security.
+
 2. Environment Variables:
 GROQ_API_KEY: For AI parsing.
 EXCHANGE_RATE_API_KEY: For Naira conversion.
